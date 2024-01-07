@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "../../Components/Layout"
 import { useAuth } from "../../components/auth";
 import { Link, useNavigate } from "react-router-dom";
