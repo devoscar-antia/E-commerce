@@ -2,7 +2,7 @@
 
 E-commerce or Online Store with React.js, the most demanded tool for frontend developers. SHOPI is a web application that allows you to browse and buy fashion items easily and conveniently. The project uses a Fake API to fetch product data and simulate the shopping process. The application is developed using React, Vite.js and Tailwind. Leverages global state and two different contexts to handle user authentication and shopping cart. In addition, private and public paths are implemented to ensure the security of user information.
 
-[img1.png](https://postimg.cc/QF1Vf3b1)
+[![img1.png](https://i.postimg.cc/Sxt8NQYT/img1.png)](https://postimg.cc/QF1Vf3b1)
 
 # 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
 
@@ -88,13 +88,14 @@ E-commerce or Online Store with React.js, the most demanded tool for frontend de
     └── tailwind.config.js
     └── vite.config.js
 ```
-
-[img2.png](https://postimg.cc/Q94MFx8G)
+[![img2.png](https://i.postimg.cc/1XPVYfbt/img2.png)](https://postimg.cc/Q94MFx8G)
 
 # 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 
 Fake API : (https://fakeapi.platzi.com/) 
+
 Icons : (https://heroicons.com)
+
 Animations : (https://www.framer.com/motion/?gad=1)
 
 
