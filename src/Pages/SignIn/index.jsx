@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Layout from "../../Components/Layout";
-import { useAuth } from "../../components/auth";
+import { useAuth } from "../../Components/auth";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 

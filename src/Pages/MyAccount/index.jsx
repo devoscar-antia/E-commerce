@@ -1,5 +1,5 @@
 import Layout from "../../Components/Layout"
-import { useAuth } from "../../components/auth";
+import { useAuth } from "../../Components/auth";
 import { Link, useNavigate } from "react-router-dom";
 import { ArrowLongRightIcon } from "@heroicons/react/24/outline";
 import { motion } from "framer-motion";
