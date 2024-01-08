@@ -3,7 +3,9 @@
 E-commerce or Online Store with React.js, the most demanded tool for frontend developers. SHOPI is a web application that allows you to browse and buy fashion items easily and conveniently. The project uses a Fake API to fetch product data and simulate the shopping process. The application is developed using React, Vite.js and Tailwind. Leverages global state and two different contexts to handle user authentication and shopping cart. In addition, private and public paths are implemented to ensure the security of user information.
 
 ## 𝐖𝐞𝐛 𝐏𝐚𝐠𝐞
-##[shopioa](https://shopioa.netlify.app/)
+
+[shopioa](https://shopioa.netlify.app/)
+
 
 [![img1.png](https://i.postimg.cc/Sxt8NQYT/img1.png)](https://postimg.cc/QF1Vf3b1)
 
